@@ -43,7 +43,7 @@ SEO (Otimização para Motores de Busca) Inadequado;
 
 - Baixa Visibilidade: Se o site não está bem otimizado para SEO, pode ser difícil para os usuários encontrá-lo através de motores de busca;
 
-# Em resumo, a qualidade de um site é determinada por uma combinação de seu design, funcionalidade, conteúdo e aspectos técnicos. Um site que falha em qualquer uma dessas áreas pode ser considerado ruim e pode ter dificuldades para atrair e reter usuários.
+*Em resumo, a qualidade de um site é determinada por uma combinação de seu design, funcionalidade, conteúdo e aspectos técnicos. Um site que falha em qualquer uma dessas áreas pode ser considerado ruim e pode ter dificuldades para atrair e reter usuários.*
 
 Aqui podemos ver um exemplo:
 
@@ -66,7 +66,7 @@ Aqui podemos ver um exemplo:
 
 - Segurança e Confiabilidade: O Google investe fortemente em segurança para proteger os dados dos usuários e garantir a integridade das informações apresentadas;
 
-<img src="siteruim0.jpeg" alt="Texto Alternativo">
+<img src="https://github.com/Larenzinhaa/tipografia_eCores/blob/main/google.png" alt="Texto Alternativo">
 
-# Esses fatores, combinados com a inovação contínua e o foco na experiência do usuário, fazem do Google uma ferramenta extremamente eficaz e popular. 
+Esses fatores, combinados com a inovação contínua e o foco na experiência do usuário, fazem do Google uma ferramenta extremamente eficaz e popular. 
 
