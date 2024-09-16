@@ -68,5 +68,5 @@ Aqui podemos ver um exemplo:
 
 <img src="siteruim0.jpeg" alt="Texto Alternativo">
 
-# Esses fatores, combinados com a inovação contínua e o foco na experiência do usuário, fazem do Google uma ferramenta extremamente eficaz e popular.
+# Esses fatores, combinados com a inovação contínua e o foco na experiência do usuário, fazem do Google uma ferramenta extremamente eficaz e popular. 
 
