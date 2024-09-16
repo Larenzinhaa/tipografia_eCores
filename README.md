@@ -1,4 +1,4 @@
-# *Tipografia e Cores* 🩷🤎🩶🧡💙💚💛💜❤️🖤🤍
+# *Tipografia e Cores* 🌈
 
 Um site pode se tornar ruim por várias razões, e essas razões geralmente se dividem em categorias relacionadas ao design, funcionalidade e conteúdo.
 
